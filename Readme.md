@@ -30,7 +30,8 @@
 <p align="left">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="Python"/></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="SQL/MySQL"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mathworks/mathworks-ar21.svg" alt="MATLAB"/></code>
+  <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB"/>
+
 </p>
 
 ### 📊 ML & LLMs
