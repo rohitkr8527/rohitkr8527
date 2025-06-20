@@ -47,7 +47,7 @@
 
 <p align="left">
   <code><img width="10%" src="https://avatars.githubusercontent.com/u/106233153?s=200&v=4" alt="LangChain" title="LangChain"/></code>
-  <code><img width="10%" src="https://langgraph.readthedocs.io/en/latest/_images/langgraph-logo-dark.png" alt="LangGraph" title="LangGraph"/></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/langgraph-ai/langgraph/main/docs/_static/langgraph-logo-light.png" alt="LangGraph" title="LangGraph"/></code>
 </p>
 
   </td>
@@ -57,10 +57,10 @@
 ### 🚀 Deployment & Dev Tools
 
 <p align="left">
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" alt="Streamlit"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="FastAPI"/></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/github/explore/main/topics/streamlit/streamlit.png" alt="Streamlit"/></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" alt="FastAPI"/></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker"/></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="Google Colab"/></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/jupyter/design/main/logos/colab-logo.svg" alt="Google Colab"/></code>
 </p>
 
 ### 🧰 Version Control & IDEs
@@ -71,10 +71,12 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code"/></code>
 </p>
 
-### 📈 GitHub Stats
+### 🧭 What's Next
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitkr8527&show_icons=true&hide_border=true&theme=default"/>
+<p align="left">
+  🔹 LangGraph agents & memory<br>
+  🔹 Lightweight app deployment via Docker & FastAPI<br>
+  🔹 Smart prompting and evaluation in custom ML apps
 </p>
 
   </td>
@@ -85,5 +87,5 @@
 
 ## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/rohitkmr8527/)  
+- [LinkedIn](https://www.linkedin.com/in/rohitkmr8527)  
 - [Email](mailto:rohitkr7518@gmail.com)
