@@ -12,7 +12,7 @@
 - **Aspiring ML/AI Engineer** with a strong interest in developing intelligent, real-world AI solutions.  
 - **Experienced in fine-tuning large language models** and building efficient deep learning systems.  
 - **Skilled in deploying scalable ML applications** and exploring model optimization techniques.  
-- **Passionate about applied AI**, with a focus on impactful and practical problem-solving.  
+- Currently in the final year of a Bachelor's degree. Passionate about applied AI, with a focus on impactful and practical problem-solving.  
 ---
 
 ## Tech Stack
