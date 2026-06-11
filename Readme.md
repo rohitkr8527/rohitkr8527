@@ -1,22 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0A1F,35:4C1D95,70:7C3AED,100:2563EB&height=250&section=header&text=Rohit%20Kumar&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20MLOps%20%7C%20Backend%20Deployment%20%7C%20Full%20Stack%20Development&descSize=18&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0A1F,35:4C1D95,70:7C3AED,100:2563EB&height=250&section=header&text=Rohit%20Kumar&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Artificial%20Intelligence%20%7C%20Data%20Science%20%7C%20MLOps&descSize=18&descAlignY=58" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Building+Production-Ready+AI%2FML+Systems;Engineering+MLOps+Pipelines+with+FastAPI%2C+Docker+and+CI%2FCD;Transforming+Data+into+Reliable+Software+Products;Focused+on+Speech+AI%2C+ML+Research+and+Scalable+Deployment" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Building+Production-Ready+Machine+Learning+Systems;Turning+Data+into+Intelligent+Decision+Systems;Engineering+AI%2FML+Pipelines+with+MLOps+and+Cloud;Focused+on+Data+Science%2C+Speech+AI+and+Applied+ML+Research" alt="Typing SVG" />
 
 <br />
 
 <img src="https://img.shields.io/badge/IIT%20Guwahati-B.Tech%20CST-7C3AED?style=flat-square&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%2FML-Engineering-4F46E5?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/MLOps-Deployment-6D28D9?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend-FastAPI-2563EB?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Guwahati-India-4338CA?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Engineer-4F46E5?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Research%20Driven-6D28D9?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Science-Analytics%20%26%20Modeling-2563EB?style=flat-square&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/MLOps-Deployment%20Ready-4338CA?style=flat-square&logo=docker&logoColor=white" />
 
 <br />
 <br />
 
 <a href="https://github.com/rohitkr8527?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4C1D95" />
+  <img src="https://img.shields.io/badge/ML%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4C1D95" />
 </a>
 <a href="https://linkedin.com/in/rohitkmr8527">
   <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2563EB" />
@@ -26,6 +26,9 @@
 </a>
 <a href="https://github.com/rohitkr8527">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
+</a>
+<a href="https://www.kaggle.com/rohit8527kmr7518">
+  <img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=2563EB" />
 </a>
 
 <br />
@@ -41,24 +44,24 @@
 
 ## About
 
-I am **Rohit Kumar**, a **B.Tech student in Chemical Science and Technology at Indian Institute of Technology Guwahati**, focused on building practical, deployment-ready systems across **machine learning**, **MLOps**, **backend engineering**, and **AI-powered product development**.
+I am **Rohit Kumar**, a **B.Tech student at Indian Institute of Technology Guwahati**, focused on **Machine Learning**, **Artificial Intelligence**, **Data Science**, and **MLOps-driven model deployment**.
 
-My engineering work combines strong foundations in **machine learning**, **data structures and algorithms**, **object-oriented programming**, **DBMS**, **operating systems**, and modern deployment workflows. I build projects that move beyond notebooks into real software systems using **FastAPI**, **Docker**, **MLflow**, **DVC**, **GitHub Actions**, **cloud deployment**, and production-style inference APIs.
+My work is centered on building intelligent systems that combine **data understanding**, **statistical modeling**, **machine learning experimentation**, and **production-ready deployment**. I enjoy working across the complete AI lifecycle: data preprocessing, exploratory analysis, feature engineering, model development, evaluation, experiment tracking, version control, API serving, containerization, and cloud deployment.
 
-I am deeply interested in **speech technologies**, **applied AI research**, **automated ML systems**, and intelligent platforms that solve real-world problems at scale. My current focus is on developing reliable ML pipelines, backend services, model deployment workflows, and research-driven AI systems with measurable performance, reproducibility, and business impact.
+I am especially interested in **applied machine learning**, **speech AI**, **NLP**, **predictive analytics**, **AI-driven cybersecurity**, and **data-centric product engineering**. My goal is to build ML systems that are not only accurate in notebooks but also reliable, reproducible, scalable, and useful in real-world environments.
 
 <br />
 
 <div align="center">
 
-| Engineering Focus | Current Direction |
+| Core Area | Focus |
 |---|---|
-| **AI / Machine Learning** | Classification, regression, NLP, predictive modeling, recommendation systems |
-| **MLOps & Deployment** | MLflow, DVC, Docker, FastAPI, CI/CD, cloud-hosted inference systems |
-| **Backend Engineering** | API design, production serving, database-backed ML applications |
-| **Data Science** | Feature engineering, model evaluation, visualization, business insight extraction |
-| **Research Interest** | Speech AI, threat detection, anomaly detection, automated response systems |
-| **Product Mindset** | Building scalable, recruiter-friendly, user-focused engineering projects |
+| **Machine Learning** | Regression, classification, ensemble learning, model evaluation, predictive analytics |
+| **Artificial Intelligence** | NLP, RAG systems, intelligent assistants, AI automation, research-backed systems |
+| **Data Science** | EDA, data cleaning, visualization, feature engineering, business insight generation |
+| **MLOps** | MLflow, DVC, Docker, FastAPI, GitHub Actions, cloud deployment |
+| **Research Interest** | Speech technologies, anomaly detection, threat classification, automated response systems |
+| **Product Mindset** | Building deployable AI tools with measurable impact and clean engineering design |
 
 </div>
 
@@ -66,11 +69,11 @@ I am deeply interested in **speech technologies**, **applied AI research**, **au
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%2FML%20Roles-Open-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/ML%20Engineering-Open-4F46E5?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Speech%20AI-Interested-2563EB?style=for-the-badge&logo=googleassistant&logoColor=white" />
-<img src="https://img.shields.io/badge/Research%20Projects-Interested-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20Source-Collaboration-4338CA?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+<img src="https://img.shields.io/badge/ML%20Engineering%20Roles-Open-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Science%20Roles-Open-4F46E5?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Research-Interested-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Speech%20AI-Interested-6D28D9?style=for-the-badge&logo=googleassistant&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source%20AI-Collaboration-4338CA?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
 
 </div>
 
@@ -86,21 +89,43 @@ I am deeply interested in **speech technologies**, **applied AI research**, **au
 
 </div>
 
-### Frontend
+### Data Science & Visualization
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,streamlit&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,anaconda&theme=dark" />
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=white&labelColor=7C3AED" />
-<img src="https://img.shields.io/badge/Plotly-111827?style=flat-square&logo=plotly&logoColor=white&labelColor=4F46E5" />
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white&labelColor=4C1D95" />
+<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white&labelColor=7C3AED" />
+<img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=white&labelColor=4338CA" />
+<img src="https://img.shields.io/badge/Seaborn-111827?style=for-the-badge&logo=python&logoColor=white&labelColor=2563EB" />
+<img src="https://img.shields.io/badge/Plotly-111827?style=for-the-badge&logo=plotly&logoColor=white&labelColor=6D28D9" />
+<img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=4F46E5" />
 
 </div>
 
-### Backend & Databases
+### AI / ML Frameworks
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/Scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=4C1D95" />
+<img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=7C3AED" />
+<img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=4338CA" />
+<img src="https://img.shields.io/badge/CatBoost-111827?style=for-the-badge&logo=python&logoColor=white&labelColor=2563EB" />
+<img src="https://img.shields.io/badge/FAISS-111827?style=for-the-badge&logo=meta&logoColor=white&labelColor=6D28D9" />
+<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=4F46E5" />
+
+</div>
+
+### Backend, APIs & Databases
 
 <div align="center">
 
@@ -109,13 +134,15 @@ I am deeply interested in **speech technologies**, **applied AI research**, **au
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logo=fastapi&logoColor=white&labelColor=4C1D95" />
-<img src="https://img.shields.io/badge/API%20Deployment-111827?style=flat-square&logo=docker&logoColor=white&labelColor=7C3AED" />
-<img src="https://img.shields.io/badge/Model%20Serving-111827?style=flat-square&logo=python&logoColor=white&labelColor=4338CA" />
+<img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=white&labelColor=4C1D95" />
+<img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logo=postman&logoColor=white&labelColor=7C3AED" />
+<img src="https://img.shields.io/badge/Model%20Serving-111827?style=flat-square&logo=python&logoColor=white&labelColor=2563EB" />
+<img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=white&labelColor=4338CA" />
+<img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=white&labelColor=6D28D9" />
 
 </div>
 
-### Cloud, DevOps & Tooling
+### Cloud, MLOps & Tooling
 
 <div align="center">
 
@@ -126,29 +153,10 @@ I am deeply interested in **speech technologies**, **applied AI research**, **au
 
 <img src="https://img.shields.io/badge/MLflow-111827?style=flat-square&logo=mlflow&logoColor=white&labelColor=4C1D95" />
 <img src="https://img.shields.io/badge/DVC-111827?style=flat-square&logo=dvc&logoColor=white&labelColor=7C3AED" />
-<img src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square&logo=githubactions&logoColor=white&labelColor=2563EB" />
-<img src="https://img.shields.io/badge/Azure%20VM-111827?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=4338CA" />
-<img src="https://img.shields.io/badge/AWS%20S3-111827?style=flat-square&logo=amazons3&logoColor=white&labelColor=6D28D9" />
-
-</div>
-
-### AI / ML Tooling
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda&theme=dark" />
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=white&labelColor=4C1D95" />
-<img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=white&labelColor=7C3AED" />
-<img src="https://img.shields.io/badge/Matplotlib-111827?style=flat-square&logo=plotly&logoColor=white&labelColor=4338CA" />
-<img src="https://img.shields.io/badge/Seaborn-111827?style=flat-square&logo=python&logoColor=white&labelColor=2563EB" />
-<img src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=white&labelColor=6D28D9" />
-<img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=chainlink&logoColor=white&labelColor=4F46E5" />
-<img src="https://img.shields.io/badge/FAISS-111827?style=flat-square&logo=meta&logoColor=white&labelColor=312E81" />
-<img src="https://img.shields.io/badge/CatBoost-111827?style=flat-square&logo=python&logoColor=white&labelColor=5B21B6" />
+<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white&labelColor=2563EB" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-111827?style=flat-square&logo=githubactions&logoColor=white&labelColor=4338CA" />
+<img src="https://img.shields.io/badge/Azure%20VM-111827?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=6D28D9" />
+<img src="https://img.shields.io/badge/AWS%20S3-111827?style=flat-square&logo=amazons3&logoColor=white&labelColor=4F46E5" />
 
 </div>
 
@@ -160,14 +168,14 @@ I am deeply interested in **speech technologies**, **applied AI research**, **au
 
 | Domain | Proficiency | Details |
 |---|---:|---|
-| **Supervised Learning** | Advanced | Regression, classification, cross-validation, GridSearchCV, stacked ensembles |
-| **MLOps** | Intermediate+ | MLflow tracking, DVC versioning, Dockerized serving, GitHub Actions CI/CD |
-| **Model Deployment** | Intermediate+ | FastAPI REST APIs, Streamlit interfaces, Azure VM deployment, AWS S3 integration |
-| **Natural Language Processing** | Intermediate+ | Sentiment analysis, TF-IDF, Logistic Regression, transcript-based Q&A systems |
-| **Predictive Analytics** | Advanced | Insurance interest prediction, real estate pricing, customer-oriented ML workflows |
-| **Recommendation Systems** | Intermediate | Content-based recommendations using genres, keywords, cast, and similarity features |
-| **Research-Oriented AI** | Intermediate | Threat detection, anomaly detection, automated response modules, speech AI interest |
-| **Data Engineering for ML** | Intermediate+ | Data ingestion, validation, preprocessing, imbalance handling, persistence workflows |
+| **Machine Learning** | Advanced | Regression, classification, cross-validation, GridSearchCV, model benchmarking |
+| **Data Science** | Advanced | EDA, data preprocessing, outlier handling, feature engineering, visualization |
+| **Predictive Analytics** | Advanced | Insurance interest prediction, real estate valuation, customer behavior modeling |
+| **Natural Language Processing** | Intermediate+ | Sentiment analysis, TF-IDF, transcript-based Q&A, RAG workflows |
+| **MLOps** | Intermediate+ | MLflow, DVC, Docker, FastAPI, CI/CD, reproducible ML pipelines |
+| **Deep Learning** | Intermediate | TensorFlow, PyTorch, neural networks, custom model experimentation |
+| **Recommendation Systems** | Intermediate | Content-based recommendation, similarity modeling, metadata feature extraction |
+| **AI Research Systems** | Intermediate | Threat detection, anomaly detection, automated response, speech AI interest |
 
 </div>
 
@@ -180,7 +188,7 @@ I am deeply interested in **speech technologies**, **applied AI research**, **au
 
 <br />
 
-An end-to-end NLP and MLOps project built for real-time sentiment prediction across multi-domain text samples. The system combines a reproducible ML workflow with production-style API serving, containerization, experiment tracking, and cloud deployment.
+A production-oriented NLP and MLOps project for real-time sentiment classification across large-scale multi-domain text data. The system combines classical NLP, reproducible ML workflows, API deployment, containerization, and CI/CD automation.
 
 <br />
 
@@ -189,11 +197,11 @@ An end-to-end NLP and MLOps project built for real-time sentiment prediction acr
 | **Stack** | Python, TF-IDF, Logistic Regression, Scikit-learn, MLflow, DVC, FastAPI, Docker, Azure VM, GitHub Actions |
 | **Scale** | 80,000 multi-domain text samples |
 | **Performance** | 82.8% accuracy and 0.82 F1-score |
-| **Security** | Containerized API workflow with controlled inference serving and reproducible versioned pipeline |
-| **Impact** | Enables real-time sentiment classification for feedback analysis, review intelligence, and user opinion mining |
+| **Security** | Dockerized inference service with controlled API access and reproducible model artifacts |
+| **Impact** | Enables real-time opinion mining for reviews, feedback, customer signals, and text intelligence |
 | **Repository** | [View Project](https://github.com/rohitkr8527/sentiment-analysis) |
 
-This project demonstrates the full lifecycle of a machine learning system: data preparation, feature extraction, model training, experiment tracking, version control, API development, containerization, and cloud deployment. It reflects a production-first mindset by turning an NLP model into a deployable, maintainable service.
+This project demonstrates the complete lifecycle of an NLP system: text preprocessing, feature extraction, model training, experiment tracking, version control, API serving, Dockerization, and cloud deployment. It reflects a strong ML engineering mindset by converting a model into a usable, scalable inference service.
 
 </details>
 
@@ -202,7 +210,7 @@ This project demonstrates the full lifecycle of a machine learning system: data 
 
 <br />
 
-A machine learning platform designed to predict customer interest in vehicle insurance using large-scale tabular data and a production-grade model pipeline. The project focuses on business-oriented classification, backend deployment, and complete model lifecycle automation.
+A large-scale machine learning platform for predicting customer interest in vehicle insurance. The project focuses on applied data science, business classification, robust ML pipelines, cloud-backed storage, and automated deployment workflows.
 
 <br />
 
@@ -211,11 +219,11 @@ A machine learning platform designed to predict customer interest in vehicle ins
 | **Stack** | Python, CatBoost, Scikit-learn, FastAPI, Docker, AWS S3, MongoDB, GitHub Actions |
 | **Scale** | 380,000+ customer records |
 | **Performance** | ROC-AUC of 0.85 |
-| **Security** | Structured data validation, database-backed persistence, containerized API serving, isolated cloud storage |
-| **Impact** | Supports targeted insurance outreach by identifying customers likely to respond to vehicle insurance offers |
+| **Security** | Data validation, controlled persistence, cloud storage integration, containerized model serving |
+| **Impact** | Helps identify high-intent customers and supports data-driven insurance targeting strategies |
 | **Repository** | [View Project](https://github.com/rohitkr8527/vehicle-insurance-churn) |
 
-This project showcases strong ML engineering skills through data ingestion, validation, preprocessing, imbalance handling, model training, persistence, API deployment, and CI/CD automation. It connects machine learning performance with business decision-making and scalable software delivery.
+This project highlights strong data science and ML engineering execution through data ingestion, validation, preprocessing, imbalance handling, model training, persistence, REST API deployment, and CI/CD automation.
 
 </details>
 
@@ -224,20 +232,20 @@ This project showcases strong ML engineering skills through data ingestion, vali
 
 <br />
 
-A real estate valuation system built using advanced regression modeling, feature engineering, ensemble learning, and interactive deployment. The project focuses on comparing multiple regression algorithms and improving predictive performance through stacked modeling.
+A regression-focused data science project for estimating real estate prices using advanced model experimentation, feature engineering, cross-validation, hyperparameter tuning, and stacked ensemble learning.
 
 <br />
 
 | Attribute | Details |
 |---|---|
 | **Stack** | Python, Pandas, NumPy, Scikit-learn, CatBoost, Random Forest, MLP, Ridge, FastAPI, Streamlit |
-| **Scale** | Housing dataset with preprocessing, outlier removal, feature engineering, and model comparison |
-| **Performance** | 17 models evaluated with 5-fold CV and GridSearchCV; stacked ensemble achieved 0.69 R² and 18.78 RMSE |
-| **Security** | Local preprocessing workflow with API-based model serving and controlled user-facing prediction interface |
-| **Impact** | Enables interactive real-time property price estimation for analytics and decision support |
+| **Scale** | Housing data pipeline with preprocessing, outlier removal, feature engineering, and model comparison |
+| **Performance** | Evaluated 17 regression models using 5-fold cross-validation and GridSearchCV; achieved 0.69 R² and 18.78 RMSE |
+| **Security** | Controlled prediction workflow with API-based serving and user-facing Streamlit interface |
+| **Impact** | Provides interactive real-time housing price estimation for analytics and decision support |
 | **Repository** | [View Project](https://github.com/rohitkr8527/Real-Estate-Price-Prediction) |
 
-This project demonstrates disciplined experimentation by benchmarking multiple models, selecting top performers, and building a stacked ensemble of CatBoost, Random Forest, and MLP with a Ridge meta-learner. The final system improves performance over the best individual model by 4% in R² and 3.9% in RMSE.
+The final stacked ensemble combines CatBoost, Random Forest, and MLP with a Ridge meta-learner, improving performance over the best individual model by 4% in R² and 3.9% in RMSE. This project demonstrates practical ML experimentation, evaluation discipline, and deployable data product development.
 
 </details>
 
@@ -246,20 +254,20 @@ This project demonstrates disciplined experimentation by benchmarking multiple m
 
 <br />
 
-A retrieval-augmented question-answering system that processes YouTube transcripts, performs semantic search, and generates context-aware answers through an interactive Streamlit interface.
+A retrieval-augmented AI application that converts YouTube transcripts into searchable knowledge. Users can ask questions about a video and receive context-aware answers generated from transcript-based semantic retrieval.
 
 <br />
 
 | Attribute | Details |
 |---|---|
 | **Stack** | Python, RAG, FAISS, LangChain, LLMs, Streamlit, Transcript Processing |
-| **Scale** | Long-form YouTube transcript ingestion and semantic retrieval workflow |
-| **Performance** | Optimized for context-aware retrieval, transcript chunking, and answer relevance |
-| **Security** | User-driven link processing with isolated transcript-based query flow |
-| **Impact** | Converts long video content into searchable, conversational knowledge for faster learning and analysis |
+| **Scale** | Long-form video transcript ingestion with chunking and semantic retrieval |
+| **Performance** | Optimized for context retrieval, answer relevance, and interactive user experience |
+| **Security** | Transcript-based processing with isolated user query workflow |
+| **Impact** | Helps users extract insights from long videos quickly through conversational AI |
 | **Repository** | [View Project](https://github.com/rohitkr8527/Youtube_Video_Q-A_System) |
 
-This project reflects applied AI product thinking by combining retrieval systems, language models, semantic search, and a usable interface to solve a real productivity problem: extracting targeted answers from lengthy video content.
+This project demonstrates applied AI product development by combining retrieval systems, vector search, language models, and an interactive interface to solve a practical learning and productivity problem.
 
 </details>
 
@@ -268,7 +276,7 @@ This project reflects applied AI product thinking by combining retrieval systems
 
 <br />
 
-A content-based recommendation engine that generates personalized movie suggestions using metadata such as genres, keywords, and cast features. The project demonstrates recommendation logic, feature extraction, and product-ready serving through API and UI layers.
+A content-based recommendation engine that generates personalized movie suggestions using metadata such as genres, keywords, cast, and similarity features.
 
 <br />
 
@@ -276,12 +284,12 @@ A content-based recommendation engine that generates personalized movie suggesti
 |---|---|
 | **Stack** | Python, Pandas, Scikit-learn, Similarity Search, FastAPI, Streamlit |
 | **Scale** | Movie metadata pipeline for personalized top-5 recommendations |
-| **Performance** | Fast content-based retrieval using engineered metadata features |
+| **Performance** | Fast recommendation retrieval through engineered content features |
 | **Security** | Controlled local inference workflow with API-based serving |
-| **Impact** | Delivers personalized recommendations through a simple, user-facing product interface |
+| **Impact** | Delivers personalized recommendations through a simple data-driven product interface |
 | **Repository** | [View Project](https://github.com/rohitkr8527/movie-recommendation-system) |
 
-This project demonstrates the ability to design practical recommendation systems by transforming metadata into meaningful user-facing suggestions and deploying the model logic through accessible software interfaces.
+This project reflects core recommender system thinking by transforming raw metadata into meaningful similarity-based suggestions and deploying the recommendation logic through usable software interfaces.
 
 </details>
 
@@ -290,7 +298,7 @@ This project demonstrates the ability to design practical recommendation systems
 
 <br />
 
-A scientific machine learning project focused on molecular property prediction using computational chemistry data. The project connects ML modeling with chemistry-focused research problems and data-driven scientific analysis.
+A scientific machine learning project focused on molecular property prediction using computational chemistry data. The project connects data science, chemistry, and ML modeling for research-oriented prediction tasks.
 
 <br />
 
@@ -298,12 +306,12 @@ A scientific machine learning project focused on molecular property prediction u
 |---|---|
 | **Stack** | Python, Jupyter Notebook, Machine Learning, Scientific Data Analysis |
 | **Scale** | Molecular dataset workflow for computational chemistry prediction |
-| **Performance** | Evaluated using regression-focused metrics and feature relevance analysis |
+| **Performance** | Regression-focused modeling and evaluation for molecular property estimation |
 | **Security** | Research-oriented local notebook experimentation |
-| **Impact** | Supports AI-assisted molecular property prediction and chemistry-focused ML research |
+| **Impact** | Supports AI-assisted molecular analysis and chemistry-focused ML experimentation |
 | **Repository** | [View Project](https://github.com/rohitkr8527/HOMO---LUMO-Gap-Prediction) |
 
-This project highlights an interdisciplinary engineering mindset by applying machine learning to chemistry research problems, aligning with both academic foundations and applied AI experimentation.
+This project highlights interdisciplinary ML ability by applying data-driven modeling to chemistry problems, aligning academic foundations with applied machine learning research.
 
 </details>
 
@@ -312,7 +320,7 @@ This project highlights an interdisciplinary engineering mindset by applying mac
 
 <br />
 
-A deep learning engineering project focused on building custom layers and models using TensorFlow's subclassing API. The project demonstrates understanding of neural network internals and flexible model design beyond high-level APIs.
+A deep learning engineering project focused on custom model and layer design using TensorFlow's subclassing API.
 
 <br />
 
@@ -320,12 +328,12 @@ A deep learning engineering project focused on building custom layers and models
 |---|---|
 | **Stack** | TensorFlow, Python, Jupyter Notebook, Deep Learning |
 | **Scale** | Custom neural layer and model experimentation workflow |
-| **Performance** | Designed for reusable architecture components and flexible neural model development |
+| **Performance** | Designed for flexible architecture development and reusable neural components |
 | **Security** | Local model experimentation with controlled notebook execution |
-| **Impact** | Strengthens deep learning engineering fundamentals for advanced ML system design |
+| **Impact** | Strengthens deep learning fundamentals for advanced AI model engineering |
 | **Repository** | [View Project](https://github.com/rohitkr8527/tensorflow-subclassing-api) |
 
-This project reflects hands-on understanding of deep learning model internals, subclassed architectures, custom components, and lower-level neural network engineering patterns.
+This project demonstrates lower-level neural network understanding beyond high-level APIs, including custom layers, model subclassing, and flexible architecture experimentation.
 
 </details>
 
@@ -337,23 +345,23 @@ This project reflects hands-on understanding of deep learning model internals, s
 **Daifend**  
 `June 2025 — August 2025`
 
-Worked on AI-assisted cybersecurity research focused on threat detection, anomaly detection, and automated incident response. Contributed to research analysis and system design for an AI-driven self-healing security system.
+Worked on AI-assisted cybersecurity research focused on applying machine learning concepts to threat detection, anomaly detection, and automated incident response systems.
 
 **Scope of Work**
 
 - Analyzed multiple AI/ML research studies to identify strategies for threat detection and automated incident response.
 - Contributed to the design and integration of an AI-driven self-healing security system.
-- Worked with ML-based threat classification concepts for identifying suspicious behavior and security risk patterns.
-- Explored anomaly detection modules for intelligent monitoring and response workflows.
-- Supported automation research for reducing manual intervention in cybersecurity incident handling.
-- Connected AI research insights with practical security engineering architecture.
+- Explored ML-based threat classification approaches for identifying suspicious behavior and security patterns.
+- Studied anomaly detection modules for intelligent monitoring and automated response workflows.
+- Supported research into AI automation for reducing manual intervention in cybersecurity operations.
+- Connected machine learning research ideas with practical security engineering system design.
 
 <br />
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/AI%20Research-111827?style=flat-square&logo=googlescholar&logoColor=white&labelColor=4C1D95" />
-<img src="https://img.shields.io/badge/Cybersecurity-111827?style=flat-square&logo=securityscorecard&logoColor=white&labelColor=7C3AED" />
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=7C3AED" />
 <img src="https://img.shields.io/badge/Threat%20Detection-111827?style=flat-square&logo=datadog&logoColor=white&labelColor=4338CA" />
 <img src="https://img.shields.io/badge/Anomaly%20Detection-111827?style=flat-square&logo=python&logoColor=white&labelColor=2563EB" />
 <img src="https://img.shields.io/badge/Automation-111827?style=flat-square&logo=githubactions&logoColor=white&labelColor=6D28D9" />
@@ -362,26 +370,26 @@ Worked on AI-assisted cybersecurity research focused on threat detection, anomal
 
 <br />
 
-### AI / ML Engineering Project Developer  
-**Independent Engineering Portfolio**  
+### Machine Learning & Data Science Project Developer  
+**Independent AI/ML Portfolio**  
 `2025 — Present`
 
-Building applied machine learning, MLOps, backend deployment, and AI product projects with a focus on reproducibility, scalable serving, and practical business impact.
+Building applied ML, AI, data science, and MLOps projects focused on measurable model performance, reproducible experimentation, and deployment-ready systems.
 
 **Scope of Work**
 
-- Built ML pipelines for sentiment analysis, vehicle insurance prediction, real estate valuation, recommendation systems, and retrieval-based Q&A.
-- Developed FastAPI-based inference services and Streamlit interfaces for real-time user interaction.
-- Implemented experiment tracking and model versioning workflows using MLflow and DVC.
-- Dockerized ML applications and deployed production-style services using Azure VM and cloud-backed storage workflows.
-- Automated model lifecycle and deployment workflows using GitHub Actions CI/CD.
-- Practiced structured documentation, measurable performance reporting, and recruiter-friendly project storytelling.
+- Built ML pipelines for sentiment analysis, insurance interest prediction, real estate valuation, recommendation systems, and retrieval-based Q&A.
+- Performed data preprocessing, EDA, visualization, feature engineering, model evaluation, and performance reporting.
+- Implemented experiment tracking and model versioning using MLflow and DVC.
+- Developed FastAPI inference services and Streamlit interfaces for real-time ML product usage.
+- Dockerized ML applications and deployed services using Azure VM and cloud-backed storage workflows.
+- Automated deployment workflows using GitHub Actions CI/CD.
 
 <br />
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white&labelColor=4C1D95" />
+<img src="https://img.shields.io/badge/Data%20Science-111827?style=flat-square&logo=kaggle&logoColor=white&labelColor=4C1D95" />
 <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=7C3AED" />
 <img src="https://img.shields.io/badge/MLOps-111827?style=flat-square&logo=mlflow&logoColor=white&labelColor=4338CA" />
 <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=white&labelColor=2563EB" />
@@ -400,9 +408,8 @@ Building applied machine learning, MLOps, backend deployment, and AI product pro
 | **Kaggle Code Expert** | Rank 286, Top 0.5% |
 | **Kaggle Dataset Expert** | Rank 255, Top 3% |
 | **200+ DSA Problems Solved** | Practiced problem solving across LeetCode and GeeksforGeeks |
-| **GitHub Pro** | Active GitHub Pro profile with applied AI/ML and data science repositories |
-| **Pull Shark Achievement** | Recognized for pull request activity and contribution workflow |
-| **Quickdraw Achievement** | Recognized for fast issue / pull request engagement |
+| **Applied ML Portfolio** | Built projects across NLP, predictive analytics, recommendation systems, RAG, and scientific ML |
+| **MLOps Project Experience** | Implemented MLflow, DVC, Docker, FastAPI, GitHub Actions, Azure VM, AWS S3, and MongoDB |
 | **Executive, IIT Guwahati Gymkhana** | Elected Executive for 2024 |
 | **Associate Executive, PR & Branding** | Alcheringa IIT Guwahati 2023 |
 | **Best SMC Recognition** | Member, Service Management Committee, Disang Hostel; awarded Best SMC among 12 hostels |
@@ -429,7 +436,7 @@ Building applied machine learning, MLOps, backend deployment, and AI product pro
 
 </div>
 
-### Specialized Courses
+### AI / ML Courses
 
 <div align="center">
 
@@ -438,15 +445,15 @@ Building applied machine learning, MLOps, backend deployment, and AI product pro
 
 </div>
 
-### Academic Foundations
+### Mathematical Foundations
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Mathematics-Algebra-111827?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=4C1D95" />
-<img src="https://img.shields.io/badge/Mathematics-Calculus-111827?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=7C3AED" />
-<img src="https://img.shields.io/badge/Mathematics-Differential%20Equations-111827?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=2563EB" />
-<img src="https://img.shields.io/badge/Mathematics-Real%20Analysis-111827?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=4338CA" />
-<img src="https://img.shields.io/badge/Mathematics-Complex%20Analysis-111827?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=6D28D9" />
+<img src="https://img.shields.io/badge/Algebra-111827?style=for-the-badge&logo=wolframmatica&logoColor=white&labelColor=4C1D95" />
+<img src="https://img.shields.io/badge/Calculus-111827?style=for-the-badge&logo=wolframmatica&logoColor=white&labelColor=7C3AED" />
+<img src="https://img.shields.io/badge/Differential%20Equations-111827?style=for-the-badge&logo=wolframmatica&logoColor=white&labelColor=2563EB" />
+<img src="https://img.shields.io/badge/Real%20Analysis-111827?style=for-the-badge&logo=wolframmatica&logoColor=white&labelColor=4338CA" />
+<img src="https://img.shields.io/badge/Complex%20Analysis-111827?style=for-the-badge&logo=wolframmatica&logoColor=white&labelColor=6D28D9" />
 
 </div>
 
@@ -505,7 +512,7 @@ Building applied machine learning, MLOps, backend deployment, and AI product pro
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkr8527&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&custom_title=Rohit%20Kumar%20%7C%20Contribution%20Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkr8527&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&custom_title=Rohit%20Kumar%20%7C%20AI%2FML%20Contribution%20Activity" />
 
 </div>
 
@@ -526,15 +533,16 @@ Building applied machine learning, MLOps, backend deployment, and AI product pro
 ```yaml
 Learning:
   - Advanced Machine Learning Engineering
-  - MLOps and Production Deployment
-  - Speech AI and Audio Intelligence
+  - Data Science for Real-World Decision Systems
   - Deep Learning Internals
-  - Scalable Backend Systems
-  - Cloud-Native ML Applications
+  - Speech AI and Audio Intelligence
+  - MLOps and Production ML Deployment
+  - Cloud-Native AI Applications
 
 Building:
-  - Real-Time Sentiment Analysis Systems
-  - Insurance Prediction Platforms
+  - Real-Time Sentiment Analysis Pipelines
+  - Predictive Analytics Platforms
+  - Insurance Interest Prediction Systems
   - Real Estate Valuation Models
   - Retrieval-Augmented Q&A Applications
   - Recommendation Engines
@@ -542,16 +550,55 @@ Building:
 
 Exploring:
   - Speech Technologies
+  - Applied NLP
   - AI-Driven Cybersecurity
-  - Threat Classification Systems
+  - Threat Classification
   - Anomaly Detection
-  - Automated Incident Response
   - Vector Search and RAG Pipelines
+  - Model Monitoring and Experiment Tracking
 
 Open To:
-  - Entry-Level ML Engineering Roles
+  - Machine Learning Engineer Roles
+  - Data Science Roles
   - AI/ML Internships
   - Speech AI Research Opportunities
-  - Backend + ML Deployment Roles
+  - MLOps and Model Deployment Roles
   - Open Source AI Projects
-  - Data Science Collaborations
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:rohitkr7518@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7C3AED" />
+</a>
+<a href="https://linkedin.com/in/rohitkmr8527">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2563EB" />
+</a>
+<a href="https://github.com/rohitkr8527">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
+</a>
+<a href="https://www.kaggle.com/rohit8527kmr7518">
+  <img src="https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=4F46E5" />
+</a>
+<a href="https://github.com/rohitkr8527?tab=repositories">
+  <img src="https://img.shields.io/badge/ML%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4C1D95" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<b>Building intelligent ML systems that transform data into reliable, scalable, and impactful AI products.</b>
+
+<br />
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,35:7C3AED,70:4C1D95,100:0F0A1F&height=140&section=footer" />
+
+</div>
