@@ -18,7 +18,7 @@
 
 I’m an **IIT Guwahati student** focused on **AI/ML Engineering, Data Science, and Applied AI**. I like building systems that go beyond a model notebook: data pipelines, evaluation, retrieval, APIs, user-facing workflows, and the engineering needed to make AI useful.
 
-My strongest interests are **LLM applications, RAG, NLP, machine learning, analytical problem-solving, and Python-based AI backends**.
+My strongest interests are **LLM applications, MCP, RAG, NLP, machine learning, analytical problem-solving, and Python-based AI backends**.
 
 <table>
 <tr>
