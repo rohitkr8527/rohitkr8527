@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Rohit Kumar - AI ML Engineer, Data Science, Applied AI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#101824"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#a371f7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)" stroke="#30363d"/>
+  <g opacity="0.25" stroke="#30363d">
+    <path d="M0 60 H1200M0 120 H1200M0 180 H1200M0 240 H1200"/>
+    <path d="M120 0 V300M240 0 V300M360 0 V300M480 0 V300M600 0 V300M720 0 V300M840 0 V300M960 0 V300M1080 0 V300"/>
+  </g>
+  <path d="M90 220 C220 120, 360 250, 500 145 S780 90, 940 170 S1080 130, 1130 85" fill="none" stroke="url(#line)" stroke-width="2.5" filter="url(#glow)" opacity="0.75">
+    <animate attributeName="stroke-dasharray" values="0 1400;140 1260;0 1400" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <g fill="#58a6ff" filter="url(#glow)">
+    <circle cx="185" cy="165" r="4"><animate attributeName="opacity" values=".25;1;.25" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="515" cy="139" r="4"><animate attributeName="opacity" values="1;.25;1" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="897" cy="150" r="4"><animate attributeName="opacity" values=".25;1;.25" dur="2.7s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="600" y="112" text-anchor="middle" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="46" font-weight="750">Rohit Kumar</text>
+  <text x="600" y="153" text-anchor="middle" fill="#79c0ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="19" font-weight="650" letter-spacing="1.4">AI/ML ENGINEER · DATA SCIENCE · APPLIED AI</text>
+  <text x="600" y="190" text-anchor="middle" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15">Building intelligent systems where machine learning, LLMs, data and software engineering meet.</text>
+</svg>
