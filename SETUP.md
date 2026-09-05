@@ -16,7 +16,9 @@ Copy these items to its root:
 
 The `docs/` folder is optional; it documents the design and implementation plan.
 
-## 2. Add the GitLab secret
+## 2. Add the GitLab secret (Optional)
+
+If you want to merge private or personal GitLab activity alongside GitHub:
 
 In GitHub:
 
@@ -27,9 +29,9 @@ Create:
 - Name: `GITLAB_TOKEN`
 - Value: your GitLab Personal Access Token with read-only `read_user` scope
 
-Do not put the PAT in README, workflow YAML, Python files, or repository variables.
-
-You do **not** need to create a `GITHUB_TOKEN` secret. GitHub Actions supplies `${{ secrets.GITHUB_TOKEN }}` automatically.
+> [!NOTE]
+> `GITLAB_TOKEN` is **optional**. If omitted, the workflow and scripts automatically pull your real GitHub contributions without errors.
+> You do **not** need to create a `GITHUB_TOKEN` secret. GitHub Actions supplies `${{ secrets.GITHUB_TOKEN }}` automatically.
 
 ## 3. Enable workflow write access if necessary
 

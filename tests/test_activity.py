@@ -10,8 +10,10 @@ sys.path.insert(0, os.path.join(ROOT, "scripts"))
 
 from activity import (  # type: ignore
     compute_stats,
+    fetch_gitlab_activity,
     merge_activity,
     normalize_gitlab_events,
+    parse_github_contributions_html,
     parse_github_graphql,
 )
 from render import render_heatmap, render_snake  # type: ignore
@@ -82,12 +84,38 @@ class ActivityTests(unittest.TestCase):
         }
         self.assertEqual(parse_github_graphql(payload), {"2026-09-01": 3, "2026-09-02": 0})
 
+    def test_parse_github_contributions_html_extracts_counts(self):
+        html = """
+        <table>
+          <tr>
+            <td id="contribution-day-component-0-0" data-date="2026-09-01" data-level="1"></td>
+            <td id="contribution-day-component-0-1" data-date="2026-09-02" data-level="0"></td>
+          </tr>
+        </table>
+        <tool-tip for="contribution-day-component-0-0">3 contributions on September 1st.</tool-tip>
+        <tool-tip for="contribution-day-component-0-1">No contributions on September 2nd.</tool-tip>
+        """
+        counts = parse_github_contributions_html(html)
+        self.assertEqual(counts.get("2026-09-01"), 3)
+        self.assertEqual(counts.get("2026-09-02"), 0)
+
+    def test_fetch_gitlab_activity_returns_empty_when_no_token(self):
+        res = fetch_gitlab_activity("rohitkr8527", None, date(2026, 9, 1), date(2026, 9, 2))
+        self.assertEqual(res, {})
+
     def test_heatmap_is_valid_svg_and_mentions_combined_activity(self):
         rows = merge_activity({"2026-09-01": 2}, {"2026-09-01": 4}, date(2026, 9, 1), date(2026, 9, 7))
         svg = render_heatmap(rows, compute_stats(rows))
         ET.fromstring(svg)
         self.assertIn("Engineering Activity", svg)
         self.assertIn("GitHub + GitLab", svg)
+
+    def test_heatmap_mentions_github_only_when_no_gitlab(self):
+        rows = merge_activity({"2026-09-01": 2}, {}, date(2026, 9, 1), date(2026, 9, 7))
+        svg = render_heatmap(rows, compute_stats(rows))
+        ET.fromstring(svg)
+        self.assertIn("Engineering Activity", svg)
+        self.assertIn("GitHub ·", svg)
 
     def test_snake_is_valid_animated_svg(self):
         rows = merge_activity({"2026-09-01": 2}, {"2026-09-02": 4}, date(2026, 9, 1), date(2026, 9, 14))

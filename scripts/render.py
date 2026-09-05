@@ -16,12 +16,16 @@ LEVELS = ["#21262d", "#0e4429", "#006d32", "#26a641", "#39d353"]
 def _level(value: int, max_value: int) -> int:
     if value <= 0 or max_value <= 0:
         return 0
-    ratio = value / max_value
-    if ratio <= 0.25:
+    if max_value <= 4:
+        return min(4, value)
+    t1 = max(1, int(max_value * 0.20))
+    t2 = max(2, int(max_value * 0.45))
+    t3 = max(3, int(max_value * 0.70))
+    if value <= t1:
         return 1
-    if ratio <= 0.5:
+    if value <= t2:
         return 2
-    if ratio <= 0.75:
+    if value <= t3:
         return 3
     return 4
 
@@ -43,6 +47,8 @@ def render_heatmap(rows: list[dict], stats: dict[str, int]) -> str:
     width = 920
     height = 250
     max_value = max((int(r["total"]) for r in rows), default=0)
+    has_gitlab = any(int(r.get("gitlab", 0)) > 0 for r in rows)
+    subtitle = "GitHub + GitLab · combined daily activity" if has_gitlab else "GitHub · daily activity and engineering momentum"
     row_by_date = {str(r["date"]): r for r in rows}
 
     rects: list[str] = []
@@ -88,10 +94,11 @@ def render_heatmap(rows: list[dict], stats: dict[str, int]) -> str:
 </style>
 <rect width="100%" height="100%" rx="14" fill="{CARD}" stroke="{BORDER}"/>
 <text x="24" y="34" class="title">Engineering Activity</text>
-<text x="24" y="54" class="subtitle">GitHub + GitLab · combined daily activity</text>
-<text x="620" y="34" class="stat">{stats.get('total',0):,}</text><text x="620" y="51" class="statlabel">activity</text>
-<text x="705" y="34" class="stat">{stats.get('active_days',0):,}</text><text x="705" y="51" class="statlabel">active days</text>
-<text x="805" y="34" class="stat">{stats.get('longest_streak',0):,}</text><text x="805" y="51" class="statlabel">best streak</text>
+<text x="24" y="54" class="subtitle">{subtitle}</text>
+<text x="530" y="34" class="stat">{stats.get('total',0):,}</text><text x="530" y="51" class="statlabel">activity</text>
+<text x="625" y="34" class="stat">{stats.get('active_days',0):,}</text><text x="625" y="51" class="statlabel">active days</text>
+<text x="720" y="34" class="stat">{stats.get('current_streak',0):,}</text><text x="720" y="51" class="statlabel">current streak</text>
+<text x="815" y="34" class="stat">{stats.get('longest_streak',0):,}</text><text x="815" y="51" class="statlabel">best streak</text>
 {''.join(labels)}{''.join(day_labels)}{''.join(rects)}{''.join(legend)}
 </svg>'''
 
@@ -106,6 +113,8 @@ def render_snake(rows: list[dict]) -> str:
     top = 60
     row_by_date = {str(r["date"]): r for r in rows}
     max_value = max((int(r["total"]) for r in rows), default=0)
+    has_gitlab = any(int(r.get("gitlab", 0)) > 0 for r in rows)
+    sub = "Combined engineering activity · animated daily traversal" if has_gitlab else "Engineering activity · animated daily traversal"
     last = datetime.fromisoformat(str(rows[-1]["date"])).date() if rows else aligned
     rects: list[str] = []
     points: list[tuple[float, float]] = []
@@ -128,7 +137,7 @@ def render_snake(rows: list[dict]) -> str:
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="Combined engineering activity snake animation">
 <style>.title{{font:700 15px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;fill:{TEXT}}}.sub{{font:500 11px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;fill:{MUTED}}}</style>
 <rect width="100%" height="100%" rx="14" fill="{CARD}" stroke="{BORDER}"/>
-<text x="24" y="30" class="title">Activity Flow</text><text x="24" y="46" class="sub">Combined engineering activity · animated daily traversal</text>
+<text x="24" y="30" class="title">Activity Flow</text><text x="24" y="46" class="sub">{sub}</text>
 {''.join(rects)}
 <path d="{path_d}" fill="none" stroke="none" id="snakePath"/>
 <g>

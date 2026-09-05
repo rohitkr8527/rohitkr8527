@@ -43,12 +43,8 @@ def main() -> None:
         github, gitlab = sample_counts(start, end)
         data_mode = "preview"
     else:
-        github_token = os.environ.get("GITHUB_TOKEN", "")
-        gitlab_token = os.environ.get("GITLAB_TOKEN", "")
-        if not github_token:
-            raise SystemExit("GITHUB_TOKEN is required. GitHub Actions provides it automatically.")
-        if not gitlab_token:
-            raise SystemExit("GITLAB_TOKEN is required. Add it as a repository Actions secret.")
+        github_token = os.environ.get("GITHUB_TOKEN", "").strip() or None
+        gitlab_token = os.environ.get("GITLAB_TOKEN", "").strip() or None
         github = fetch_github_activity(args.github_user, github_token, start, end)
         gitlab = fetch_gitlab_activity(args.gitlab_user, gitlab_token, start, end)
         data_mode = "live"
