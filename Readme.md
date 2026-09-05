@@ -156,9 +156,9 @@ Predictive valuation model analyzing housing attributes, spatial variables, and 
 
 <!-- Real live activity dynamically rendered from public GitHub contribution telemetry & optional GitLab integration -->
 <div align="center">
-  <img src="./assets/engineering-activity.svg" width="100%" alt="Unified engineering activity" />
+  <img src="./assets/engineering-activity.svg?v=2" width="100%" alt="Unified engineering activity" />
   <br/><br/>
-  <img src="./assets/engineering-snake.svg" width="100%" alt="Animated engineering activity flow" />
+  <img src="./assets/engineering-snake.svg?v=2" width="100%" alt="Animated engineering activity flow" />
   <br/>
   <sub>Automated daily telemetry: combines live GitHub activity with optional privacy-safe GitLab events via GitHub Actions.</sub>
 </div>
