@@ -1,22 +1,16 @@
 {
   "mode": "live",
   "range": {
-    "from": "2025-09-06",
-    "to": "2026-09-05"
+    "from": "2025-09-07",
+    "to": "2026-09-06"
   },
   "stats": {
-    "total": 176,
-    "active_days": 57,
-    "current_streak": 2,
+    "total": 169,
+    "active_days": 56,
+    "current_streak": 0,
     "longest_streak": 12
   },
   "days": [
-    {
-      "date": "2025-09-06",
-      "github": 7,
-      "gitlab": 0,
-      "total": 7
-    },
     {
       "date": "2025-09-07",
       "github": 5,
@@ -2200,6 +2194,12 @@
       "github": 3,
       "gitlab": 0,
       "total": 3
+    },
+    {
+      "date": "2026-09-06",
+      "github": 0,
+      "gitlab": 0,
+      "total": 0
     }
   ]
 }
