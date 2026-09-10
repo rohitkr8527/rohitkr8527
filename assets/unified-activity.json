@@ -1,8 +1,8 @@
 {
   "mode": "live",
   "range": {
-    "from": "2025-09-10",
-    "to": "2026-09-09"
+    "from": "2025-09-11",
+    "to": "2026-09-10"
   },
   "stats": {
     "total": 167,
@@ -11,12 +11,6 @@
     "longest_streak": 12
   },
   "days": [
-    {
-      "date": "2025-09-10",
-      "github": 0,
-      "gitlab": 0,
-      "total": 0
-    },
     {
       "date": "2025-09-11",
       "github": 0,
@@ -2197,6 +2191,12 @@
     },
     {
       "date": "2026-09-09",
+      "github": 0,
+      "gitlab": 0,
+      "total": 0
+    },
+    {
+      "date": "2026-09-10",
       "github": 0,
       "gitlab": 0,
       "total": 0
