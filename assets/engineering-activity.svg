@@ -51,7 +51,7 @@
 </g>
 <g transform="translate(696, 14)">
   <rect width="98" height="46" rx="8" fill="#1b212a" stroke="#30363d"/>
-  <text x="49" y="22" text-anchor="middle" class="stat" fill="#58a6ff">2</text>
+  <text x="49" y="22" text-anchor="middle" class="stat" fill="#58a6ff">0</text>
   <text x="49" y="37" text-anchor="middle" class="statlabel">current streak</text>
 </g>
 <g transform="translate(804, 14)">
