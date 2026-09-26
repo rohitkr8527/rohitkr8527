@@ -1,22 +1,16 @@
 {
   "mode": "live",
   "range": {
-    "from": "2025-09-26",
-    "to": "2026-09-25"
+    "from": "2025-09-27",
+    "to": "2026-09-26"
   },
   "stats": {
-    "total": 191,
-    "active_days": 61,
-    "current_streak": 0,
+    "total": 199,
+    "active_days": 62,
+    "current_streak": 3,
     "longest_streak": 12
   },
   "days": [
-    {
-      "date": "2025-09-26",
-      "github": 0,
-      "gitlab": 0,
-      "total": 0
-    },
     {
       "date": "2025-09-27",
       "github": 0,
@@ -2107,9 +2101,9 @@
     },
     {
       "date": "2026-09-10",
-      "github": 1,
+      "github": 0,
       "gitlab": 0,
-      "total": 1
+      "total": 0
     },
     {
       "date": "2026-09-11",
@@ -2197,9 +2191,15 @@
     },
     {
       "date": "2026-09-25",
-      "github": 0,
+      "github": 7,
       "gitlab": 0,
-      "total": 0
+      "total": 7
+    },
+    {
+      "date": "2026-09-26",
+      "github": 2,
+      "gitlab": 0,
+      "total": 2
     }
   ]
 }
