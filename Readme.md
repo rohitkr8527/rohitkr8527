@@ -1,199 +1,51 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Rohit Kumar — AI/ML Engineer, Data Science, Applied AI" />
+  <img src="./assets/hero.svg" width="100%" alt="Rohit Kumar — data, analytics, machine learning, and applied AI" />
 
-  <br/>
-
-  <a href="https://github.com/rohitkr8527"><img src="https://img.shields.io/badge/GitHub-rohitkr8527-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://gitlab.com/rohitkr8527"><img src="https://img.shields.io/badge/GitLab-rohitkr8527-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
-  <a href="https://www.linkedin.com/in/rohitkmr8527"><img src="https://img.shields.io/badge/LinkedIn-Rohit_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-  <br/><br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Production-oriented+AI+systems;LLMs+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+Agents;Machine+Learning+%C2%B7+Data+Science+%C2%B7+APIs;From+experiments+to+real-world+AI+products" alt="Current engineering focus" />
+  <p><a href="https://www.linkedin.com/in/rohitkmr8527">LinkedIn</a> · <a href="mailto:rohitkr7518@gmail.com">Email</a> · <a href="https://github.com/rohitkr8527?tab=repositories">Repositories</a></p>
 </div>
 
-<br/>
+## About
 
-## 👨‍💻 About Me
+I'm Rohit Kumar, a Chemical Science and Technology student at IIT Guwahati. I use data, analytics, machine learning, and AI to answer business questions and build useful software. My projects range from SQL and Power BI decision support to evaluated LLM systems and deployed prediction APIs.
 
-I’m an **IIT Guwahati student** specializing in **AI/ML Engineering, Applied AI, and Data Science**. I build intelligent systems that bridge the gap between model experimentation and production: end-to-end data pipelines, semantic retrieval (RAG), tool-augmented agents via Model Context Protocol (MCP), predictive modeling, and scalable Python AI backends.
+## Skills
 
-<table>
-<tr>
-<td width="25%" align="center">
-  <b>🤖 Applied AI & LLMs</b><br/>
-  <sub>RAG · MCP · AI Agents · LangChain</sub>
-</td>
-<td width="25%" align="center">
-  <b>🧠 Machine Learning</b><br/>
-  <sub>Feature Eng · Ensembles · Evaluation</sub>
-</td>
-<td width="25%" align="center">
-  <b>📊 Data Science</b><br/>
-  <sub>EDA · Business Analytics · Statistical Insights</sub>
-</td>
-<td width="25%" align="center">
-  <b>⚙️ AI Engineering</b><br/>
-  <sub>FastAPI · FAISS · Vector Search · Pipelines</sub>
-</td>
-</tr>
-</table>
+| Area | Tools and methods demonstrated in my projects |
+| --- | --- |
+| Analytics | SQL, MySQL, Power BI, Python, pandas, NumPy, funnel and cohort analysis, dashboards |
+| Machine learning | scikit-learn, CatBoost, TensorFlow, feature engineering, model evaluation |
+| Applied AI | RAG, hybrid retrieval, Qdrant, BM25, cross-encoder reranking, LLM evaluation, QLoRA |
+| Engineering | FastAPI, Docker, GitHub Actions, AWS EC2/ECR/S3, MongoDB, Modal |
 
----
+## Selected projects
 
-## 🛠️ Technology Stack
+### [B2B Growth Funnel & Marketing Efficiency Analytics](https://github.com/rohitkr8527/B2B-Growth-Funnel-Analytics) · Business analytics
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,mysql,git,github,gitlab,vscode,linux&theme=dark" alt="Core technologies" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Model_Context_Protocol-412991?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111111" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
-</div>
+**Problem:** Marketing and sales teams need to see which channels produce customers and where leads stall. **Solution:** Built a Python validation workflow, MySQL analytics views and queries, and a five-page Power BI report covering funnel conversion, acquisition cost, revenue, and cohorts. **Result:** In the 500-lead case study, the analysis identifies a 50.5% drop from MQL to SQL and a 9.6% lead-to-customer conversion rate.
 
----
+### [Vehicle Insurance Interest Prediction](https://github.com/rohitkr8527/vehicle-insurance-churn) · ML engineering
 
-## 🚀 Featured Engineering Projects
+**Problem:** Estimate which customers are likely to respond to a vehicle insurance offer. **Solution:** Built a CatBoost training pipeline with train-only resampling, validation-based threshold selection, a FastAPI prediction service, and automated AWS deployment through GitHub Actions. **Technical strength:** The repository includes model promotion rules, API tests, container configuration, and EC2/ECR/S3 deployment infrastructure. The target is customer **interest**, despite the repository's older “churn” name.
 
-### 🤖 LLM Systems & Applied AI
+### [VideoRAG: YouTube Video Q&A](https://github.com/rohitkr8527/Youtube_Video_Q-A_System) · AI engineering
 
-<table>
-<tr>
-<td width="100%" valign="top">
+**Problem:** Make long videos searchable while keeping answers tied to source moments. **Solution:** Built transcript ingestion, Qdrant and BM25 retrieval, cross-encoder reranking, grounded answers with timestamp citations, a FastAPI backend, and a Streamlit interface. **Result:** The committed 120-question benchmark reports 88% Recall@1 and 90% abstention accuracy; the evaluation also documents citation and latency limitations.
 
-#### [YouTube Video Q&A System](https://github.com/rohitkr8527/Youtube_Video_Q-A_System)
-`RAG` · `LangChain` · `FAISS` · `Groq` · `Hugging Face`
+### [PrivacyGuard: PII Detection and Redaction](https://github.com/rohitkr8527/PrivacyGaurd) · Applied ML and AI evaluation
 
-Retrieval-augmented Q&A pipeline over video transcripts. Features intelligent chunking, semantic vector embeddings, FAISS indexing, and low-latency LLM synthesis via Groq.
+**Problem:** Detect and redact personal information in text. **Solution:** Fine-tuned Qwen3-4B with QLoRA, evaluated against the base model and two external benchmarks, and built a Streamlit demo backed by Modal inference. **Result:** The committed evaluation reports 95.4% F1 on OpenPII, with lower F1 on the external Gretel (85.6%) and Nemotron (81.5%) benchmarks.
 
-[**Explore Repository →**](https://github.com/rohitkr8527/Youtube_Video_Q-A_System)
+## More work
 
-</td>
-</tr>
-</table>
-
-### 🧠 Machine Learning & Deep Learning
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [Vehicle Insurance Churn Prediction](https://github.com/rohitkr8527/vehicle-insurance-churn)
-`Machine Learning` · `Classification` · `Feature Engineering`
-
-End-to-end predictive modeling system to detect customer policy lapse and churn risk, with comprehensive EDA, imbalance handling, and hyperparameter tuning.
-
-[**Explore Repository →**](https://github.com/rohitkr8527/vehicle-insurance-churn)
-
-</td>
-<td width="50%" valign="top">
-
-#### [Sentiment Analysis Pipeline](https://github.com/rohitkr8527/sentiment-analysis)
-`NLP` · `Text Classification` · `Scikit-Learn`
-
-Natural language processing pipeline extracting sentiment indicators through text normalization, tokenization, TF-IDF representations, and classification models.
-
-[**Explore Repository →**](https://github.com/rohitkr8527/sentiment-analysis)
-
-</td>
-</tr>
-</table>
-
-### 📊 Data Science & Analytics
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [Vendor Performance Data Analysis](https://github.com/rohitkr8527/vendor-performance-data-analysis)
-`BI` · `Operations Analytics` · `KPI Tracking`
-
-Operational analytics measuring supplier reliability, defect rates, delivery turnaround times, and contract SLA compliance.
-
-[**Explore Repository →**](https://github.com/rohitkr8527/vendor-performance-data-analysis)
-
-</td>
-<td width="50%" valign="top">
-
-#### [Real Estate Price Prediction](https://github.com/rohitkr8527/Real-Estate-Price-Prediction)
-`Regression` · `Feature Engineering` · `Predictive Modeling`
-
-Predictive valuation model analyzing housing attributes, spatial variables, and price elasticity with multi-variable regression.
-
-[**Explore Repository →**](https://github.com/rohitkr8527/Real-Estate-Price-Prediction)
-
-</td>
-</tr>
-</table>
+- [Customer Shopping Behavior Analysis](https://github.com/rohitkr8527/customer-shopping-behavior-analysis) — Python cleaning, SQL segmentation, and a Power BI dashboard for retail purchase patterns.
+- [Real Estate Price Prediction](https://github.com/rohitkr8527/Real-Estate-Price-Prediction) — regression model comparison with a FastAPI endpoint and Streamlit interface.
 
 <details>
-<summary><b>📂 Additional Repositories & Solutions</b></summary>
-<br/>
-
-- [Uber Ride Data Analysis](https://github.com/rohitkr8527/uber-ride-data-analysis) — Geospatial & temporal demand analytics
-- [Customer Shopping Behavior Analysis](https://github.com/rohitkr8527/customer-shopping-behavior-analysis) — Customer segmentation & behavioral analysis
-- [ML Models From Scratch](https://github.com/rohitkr8527/ml-models-from-scratch) — Fundamental machine learning algorithms built strictly in NumPy
-- [ElevenLabs MCP Server](https://github.com/rohitkr8527/elevenlabs-mcp) — Model Context Protocol server for voice AI agents
-- [TalentScout Assistant Chatbot](https://github.com/rohitkr8527/talentscout-assistant-chatbot) — Automated candidate screening chatbot
-- [MediGuide Llama](https://github.com/rohitkr8527/MediGuide-Llama) — Domain-adapted clinical assistant LLM
-- [Bank Marketing Classification](https://github.com/rohitkr8527/bank_marketing_classification) — Targeted campaign response modeling (Kaggle Playground Series)
-- [Movie Recommendation System](https://github.com/rohitkr8527/Movie-Recommendation-System) — Content-based and collaborative filtering recommendation engine
-- [Cyber Threat Classification](https://github.com/rohitkr8527/Cyber-Threat-Classification) — Applied ML for intrusion and security telemetry classification
-- [Handwritten Digit Classification](https://github.com/rohitkr8527/Handwritten-Digit-Classification) — MNIST computer vision classification with deep neural networks
-- [HOMO-LUMO Energy Gap Prediction](https://github.com/rohitkr8527/HOMO---LUMO-Gap-Prediction) — Molecular property prediction with machine learning
-
+<summary>Engineering activity</summary>
+<br />
+<img src="./assets/engineering-activity.svg" width="100%" alt="GitHub and optional GitLab engineering activity" />
 </details>
 
----
+## Connect
 
-## 📈 Engineering Activity & Momentum
-
-<!-- Real live activity dynamically rendered from public GitHub contribution telemetry & optional GitLab integration -->
-<div align="center">
-  <img src="./assets/engineering-activity.svg?v=3" width="100%" alt="Unified engineering activity" />
-  <br/>
-  <sub>Automated daily telemetry: combines live GitHub activity with optional privacy-safe GitLab events via GitHub Actions.</sub>
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-LLM Systems        →  Retrieval Augmented Generation (RAG), Tool Use, Model Context Protocol (MCP)
-Machine Learning   →  Robust feature engineering, model interpretability, and production deployment
-Data Science       →  Analytical storytelling, SQL mastery, and actionable business insights
-AI Engineering     →  FastAPI backends, vector search optimization, and reproducible pipelines
-Problem Solving    →  Data Structures, Algorithms, and clean software architecture
-```
-
----
-
-## 💡 How I Think About AI Products
-
-```text
-Useful AI = Problem Clarity
-          + Quality Data
-          + Rigorous Modeling
-          + Continuous Evaluation
-          + Clean Production Engineering
-          + Tangible End-User Value
-```
-
----
-
-<div align="center">
-  <b>Interested in AI/ML Engineering, Applied AI, and Data Science opportunities.</b>
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/rohitkmr8527">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/rohitkr8527">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://gitlab.com/rohitkr8527">GitLab</a>
-</div>
+I'm interested in business analytics, data science, ML engineering, and applied AI work where the result can be measured and used. Reach me on [LinkedIn](https://www.linkedin.com/in/rohitkmr8527) or by [email](mailto:rohitkr7518@gmail.com).
