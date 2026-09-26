@@ -1,51 +1,147 @@
 <div align="center">
   <img src="./assets/hero.svg" width="100%" alt="Rohit Kumar — data, analytics, machine learning, and applied AI" />
-
-  <p><a href="https://www.linkedin.com/in/rohitkmr8527">LinkedIn</a> · <a href="mailto:rohitkr7518@gmail.com">Email</a> · <a href="https://github.com/rohitkr8527?tab=repositories">Repositories</a></p>
+  <br/><br/>
+  <a href="https://github.com/rohitkr8527"><img src="https://img.shields.io/badge/GitHub-rohitkr8527-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://gitlab.com/rohitkr8527"><img src="https://img.shields.io/badge/GitLab-rohitkr8527-FC6D26?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab" /></a>
+  <a href="https://www.linkedin.com/in/rohitkmr8527"><img src="https://img.shields.io/badge/LinkedIn-Rohit_Kumar-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=16&amp;duration=2800&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Business+questions+to+actionable+analytics;Data+pipelines+to+evaluated+ML+systems;Retrieval+and+LLMs+to+useful+AI+products" alt="Analytics, machine learning, and AI engineering focus" />
 </div>
 
-## About
+<br/>
 
-I'm Rohit Kumar, a Chemical Science and Technology student at IIT Guwahati. I use data, analytics, machine learning, and AI to answer business questions and build useful software. My projects range from SQL and Power BI decision support to evaluated LLM systems and deployed prediction APIs.
+## 👨‍💻 About Me
 
-## Skills
+I'm **Rohit Kumar**, a Chemical Science and Technology student at **IIT Guwahati**. I work across analytics, machine learning, and applied AI: understanding a business problem, building the data workflow, evaluating the result, and delivering something people can use.
 
-| Area | Tools and methods demonstrated in my projects |
-| --- | --- |
-| Analytics | SQL, MySQL, Power BI, Python, pandas, NumPy, funnel and cohort analysis, dashboards |
-| Machine learning | scikit-learn, CatBoost, TensorFlow, feature engineering, model evaluation |
-| Applied AI | RAG, hybrid retrieval, Qdrant, BM25, cross-encoder reranking, LLM evaluation, QLoRA |
-| Engineering | FastAPI, Docker, GitHub Actions, AWS EC2/ECR/S3, MongoDB, Modal |
+<table>
+<tr>
+<td width="25%" align="center"><b>📊 Business Analytics</b><br/><sub>SQL · Power BI · KPIs · decision support</sub></td>
+<td width="25%" align="center"><b>🧠 Data Science &amp; ML</b><br/><sub>EDA · statistics · modeling · evaluation</sub></td>
+<td width="25%" align="center"><b>⚙️ ML Engineering</b><br/><sub>FastAPI · Docker · CI/CD · AWS</sub></td>
+<td width="25%" align="center"><b>🤖 Applied AI</b><br/><sub>RAG · LLM evaluation · fine-tuning</sub></td>
+</tr>
+</table>
 
-## Selected projects
+---
 
-### [B2B Growth Funnel & Marketing Efficiency Analytics](https://github.com/rohitkr8527/B2B-Growth-Funnel-Analytics) · Business analytics
+## 🛠️ Technology Stack
 
-**Problem:** Marketing and sales teams need to see which channels produce customers and where leads stall. **Solution:** Built a Python validation workflow, MySQL analytics views and queries, and a five-page Power BI report covering funnel conversion, acquisition cost, revenue, and cohorts. **Result:** In the 500-lead case study, the analysis identifies a 50.5% drop from MQL to SQL and a 9.6% lead-to-customer conversion rate.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,docker,aws,git,github,tensorflow&amp;theme=dark" alt="Python, FastAPI, MySQL, Docker, AWS, Git, GitHub, TensorFlow" />
+  <br/><br/>
+  <sub><b>Analytics:</b> SQL · pandas · NumPy · Power BI &nbsp;|&nbsp; <b>ML:</b> scikit-learn · CatBoost · MLflow · DVC</sub>
+  <br/>
+  <sub><b>AI:</b> Qdrant · BM25 · QLoRA · Modal &nbsp;|&nbsp; <b>Delivery:</b> FastAPI · Docker · GitHub Actions · AWS</sub>
+</div>
 
-### [Vehicle Insurance Interest Prediction](https://github.com/rohitkr8527/vehicle-insurance-churn) · ML engineering
+---
 
-**Problem:** Estimate which customers are likely to respond to a vehicle insurance offer. **Solution:** Built a CatBoost training pipeline with train-only resampling, validation-based threshold selection, a FastAPI prediction service, and automated AWS deployment through GitHub Actions. **Technical strength:** The repository includes model promotion rules, API tests, container configuration, and EC2/ECR/S3 deployment infrastructure. The target is customer **interest**, despite the repository's older “churn” name.
+## 🚀 Featured Projects
 
-### [VideoRAG: YouTube Video Q&A](https://github.com/rohitkr8527/Youtube_Video_Q-A_System) · AI engineering
+### 📊 Business Analytics &amp; Decision Support
 
-**Problem:** Make long videos searchable while keeping answers tied to source moments. **Solution:** Built transcript ingestion, Qdrant and BM25 retrieval, cross-encoder reranking, grounded answers with timestamp citations, a FastAPI backend, and a Streamlit interface. **Result:** The committed 120-question benchmark reports 88% Recall@1 and 90% abstention accuracy; the evaluation also documents citation and latency limitations.
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/rohitkr8527/B2B-Growth-Funnel-Analytics">B2B Growth Funnel Analytics</a></h4>
+  <sub>Python · MySQL · SQL · Power BI</sub>
+  <p><b>Problem:</b> Find where leads drop out and which acquisition channels create value. <b>Built:</b> A validated data workflow, SQL analysis, and a five-page Power BI report. <b>Result:</b> The 500-lead case study identifies a 50.5% MQL-to-SQL drop and 9.6% overall conversion.</p>
+  <a href="https://github.com/rohitkr8527/B2B-Growth-Funnel-Analytics">Explore repository →</a>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/rohitkr8527/vendor-performance-data-analysis">Vendor Performance Analysis</a></h4>
+  <sub>MySQL · Python · pandas · SciPy</sub>
+  <p><b>Problem:</b> Understand supplier spending, product profitability, and slow-moving inventory. <b>Built:</b> SQL joins across purchase, sales, invoice, and pricing tables, followed by vendor-level analysis and a profit-margin hypothesis test. <b>Strength:</b> The notebook produces a 10,692-row vendor-product summary and examines purchasing concentration and stock turnover.</p>
+  <a href="https://github.com/rohitkr8527/vendor-performance-data-analysis">Explore repository →</a>
+</td>
+</tr>
+</table>
 
-### [PrivacyGuard: PII Detection and Redaction](https://github.com/rohitkr8527/PrivacyGaurd) · Applied ML and AI evaluation
+### 🧠 Machine Learning &amp; Delivery
 
-**Problem:** Detect and redact personal information in text. **Solution:** Fine-tuned Qwen3-4B with QLoRA, evaluated against the base model and two external benchmarks, and built a Streamlit demo backed by Modal inference. **Result:** The committed evaluation reports 95.4% F1 on OpenPII, with lower F1 on the external Gretel (85.6%) and Nemotron (81.5%) benchmarks.
+<table>
+<tr>
+<td width="100%" valign="top">
+  <h4><a href="https://github.com/rohitkr8527/vehicle-insurance-churn">Vehicle Insurance Interest Prediction</a></h4>
+  <sub>CatBoost · scikit-learn · FastAPI · Docker · AWS</sub>
+  <p><b>Problem:</b> Predict customer interest in a vehicle insurance offer. <b>Built:</b> A training pipeline with train-only resampling and validation-selected thresholds, a tested prediction API, and an AWS deployment workflow using GitHub Actions. <b>Strength:</b> Model promotion rules, container configuration, and EC2/ECR/S3 infrastructure connect model evaluation with delivery. The modeled target is interest, despite the repository's older name.</p>
+  <a href="https://github.com/rohitkr8527/vehicle-insurance-churn">Explore repository →</a>
+</td>
+</tr>
+</table>
 
-## More work
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/rohitkr8527/Real-Estate-Price-Prediction">Real Estate Price Prediction</a></h4>
+  <sub>Regression · scikit-learn · FastAPI · Streamlit</sub>
+  <p><b>Problem:</b> Estimate Bangalore home prices from property features. <b>Built:</b> Cleaning, feature engineering, model comparison, a stacked ensemble, and local UI/API prediction surfaces. <b>Result:</b> The committed test report records R² of 0.688 for the ensemble.</p>
+  <a href="https://github.com/rohitkr8527/Real-Estate-Price-Prediction">Explore repository →</a>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/rohitkr8527/sentiment-analysis">Sentiment Analysis Pipeline</a></h4>
+  <sub>TF-IDF · Logistic Regression · DVC · MLflow · FastAPI</sub>
+  <p><b>Problem:</b> Classify sentiment across multiple text domains. <b>Built:</b> A versioned DVC pipeline with experiment tracking, model comparison, an API, tests, and a cloud deployment workflow. <b>Result:</b> The repository's model comparison reports 82.8% accuracy for Logistic Regression with TF-IDF.</p>
+  <a href="https://github.com/rohitkr8527/sentiment-analysis">Explore repository →</a>
+</td>
+</tr>
+</table>
 
-- [Customer Shopping Behavior Analysis](https://github.com/rohitkr8527/customer-shopping-behavior-analysis) — Python cleaning, SQL segmentation, and a Power BI dashboard for retail purchase patterns.
-- [Real Estate Price Prediction](https://github.com/rohitkr8527/Real-Estate-Price-Prediction) — regression model comparison with a FastAPI endpoint and Streamlit interface.
+### 🤖 Applied AI &amp; LLM Systems
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/rohitkr8527/Youtube_Video_Q-A_System">VideoRAG: YouTube Q&amp;A</a></h4>
+  <sub>RAG · Qdrant · BM25 · FastAPI · Streamlit</sub>
+  <p><b>Problem:</b> Answer questions about long videos with evidence from the source. <b>Built:</b> Transcript ingestion, hybrid retrieval, reranking, grounding checks, and timestamp citations. <b>Result:</b> A committed 120-question benchmark reports 88% Recall@1 and 90% abstention accuracy.</p>
+  <a href="https://github.com/rohitkr8527/Youtube_Video_Q-A_System">Explore repository →</a>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/rohitkr8527/PrivacyGaurd">PrivacyGuard: PII Redaction</a></h4>
+  <sub>Qwen3-4B · QLoRA · Modal · evaluation</sub>
+  <p><b>Problem:</b> Detect and redact personal information in text. <b>Built:</b> A fine-tuned model, benchmark scripts, Modal inference, and a Streamlit demo. <b>Result:</b> The recorded OpenPII F1 is 95.4%; external Gretel and Nemotron F1 scores are 85.6% and 81.5%.</p>
+  <a href="https://github.com/rohitkr8527/PrivacyGaurd">Explore repository →</a>
+</td>
+</tr>
+</table>
 
 <details>
-<summary>Engineering activity</summary>
-<br />
-<img src="./assets/engineering-activity.svg" width="100%" alt="GitHub and optional GitLab engineering activity" />
+<summary><b>📂 More analytics and engineering work</b></summary>
+<br/>
+
+- [Customer Shopping Behavior Analysis](https://github.com/rohitkr8527/customer-shopping-behavior-analysis) — Python cleaning, SQL segmentation, and a Power BI dashboard.
+- [Uber Ride Data Analysis](https://github.com/rohitkr8527/uber-ride-data-analysis) — ride demand, revenue, and cancellation analysis with operational recommendations.
+- [ElevenLabs MCP](https://github.com/rohitkr8527/elevenlabs-mcp) — a voice-generation demo connecting an MCP tool, an LLM, and a speech API.
+
 </details>
 
-## Connect
+---
 
-I'm interested in business analytics, data science, ML engineering, and applied AI work where the result can be measured and used. Reach me on [LinkedIn](https://www.linkedin.com/in/rohitkmr8527) or by [email](mailto:rohitkr7518@gmail.com).
+## 📈 Engineering Activity
+
+<div align="center">
+  <img src="./assets/engineering-activity.svg?v=3" width="100%" alt="Engineering activity from public GitHub and optional GitLab events" />
+  <br/>
+  <sub>Updated by GitHub Actions from public GitHub activity and optional GitLab events.</sub>
+</div>
+
+---
+
+## 💡 How I Think About Useful Data Products
+
+```text
+Useful work = A clear business question
+            + Trustworthy data
+            + Measured insight or model
+            + Reproducible delivery
+```
+
+<div align="center">
+  <b>Open to business analytics, data science, ML engineering, and applied AI opportunities.</b>
+  <br/><br/>
+  <a href="mailto:rohitkr7518@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/rohitkmr8527">LinkedIn</a> ·
+  <a href="https://github.com/rohitkr8527">GitHub</a>
+</div>
